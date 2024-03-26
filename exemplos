@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/5845745e0b.js" crossorigin="anonymous"></script>
+    <title>Meu Projeto</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+
+<header>
+<img src="https://jasmineyip.com/assets/logos/logo-soft.png" alt="">
+
+<h1>My name is Jasmine.I am a Computer Science Student. I am Developer. I am an Adventure. I am a Trojan. I am an Innovator. I am a UI/UX Designer.</h1>
+
+<p>
+    Born in Hong Kong, studied aboard in New Zealand, and briefly ventured into Australia, I am currently starting a new chapter in Los Angeles, California, pursuing a Bachelor of Science (BSc) degree in Computer Science at the University of Southern California (USC).
+</p>
+
+<p>
+    My journey as a developer began during lockdown when I took Tap Tap Kaboom's class and built a one-page Minions wikipedia. Fast forward to today, I have had the privilege of interning as a Software Engineer at Serato, the world's best DJ and music production software company, designing and developing websites for startups and non-profits, and winning multiple hackathons and start-up incubators.
+</p>
+<p>
+    I am passionate about all things technology, especially front-end software development, project management, and UI/UX design, and I am a firm believer in placing humanity in the centre of technology.
+</p>
+<p>This site is proudly awarded the CSSDA (CSS Design Awards) Special Kudos Award and Best UI, UX & Innovation Award. </p>
+    <h1>Where I worked</h1>
+<section>
+    <h3>Serato</h3>
+    <h4>Junior Software Engineer - Intern </h4>
+    <p>> Contributed to the development of Serato Visualizer, a video creator for music producers, in a cross-functional team</p>
+    <p>> Maintenance, development, and research of software products</p>
+    <p>> Analysis, design, implementation, developer testing, and technical documentation of software</p>
+    <p>> Assisted in the estimation and planning of large software projects</p>
+
+   <h3>Power Trip</h3>
+    <h4>Web Developer</h4>
+    <p> > Redeveloped Power Trip's website using HTML, CSS, and JavaScript</p>
+    <p> > Proactively liaised with the CEO and translated discussions into innovative design solutions</p>
+    <p> > Produced prototypes using Figma and validated design decisions through competitive website analysis and user testing</p>
+    <p> > Implemented responsive web design and tested cross-browser and cross-device compatibility</p>
+</section>
+    
+    <h1>Stuff I built</h1>
+    &nbsp;
+    <img src="https://jasmineyip.com/assets/demos/wgtnisa.gif" alt="">
+    &nbsp;
+    <h2>Featured project</h2>
+    <h3>WISA website</h3>
+    &nbsp;
+    <h2> A website for the Wellington International Students' Association with over 2k monthly visits.</h2>
+    &nbsp;
+    <img src="https://jasmineyip.com/assets/demos/pacman-2.gif" alt="">
+    &nbsp;
+    <h2>Featured project</h2>
+    <h3>Pokémon Collection</h3>
+    <p>A program that allows users to view, add, and search (or partial term search) for their Pokémon cards and monetary values.</p>
+    <section>
+        <h2>Notework project</h2>
+        <h4>Climbing Logbook</h4>
+        <p>A system for climbers to print, insert, filter, edit, remove, and duplicate routes they have attempted.
+        &nbsp;
+        # C
+        # Linked Lists
+        # Dynamic Memory Allocation
+        # Pointers</p>
+        <h2>Noteworthy project</h2>
+        <h4>Wah Fu website</h4>
+        <p>A bilingual (English and Traditional Chinese) website for the Wah Fu Church of Christ in Hong Kong.
+         &nbsp;   
+                # HTML
+                # CSS
+                # JavaScript
+                # SEO
+                # Language Switch
+                # Sidebar Menus
+                # Responsive Web Design
+                <h2>Notework project</h2>
+                <h4>Pacman</h4>
+                <p>A simplified version of the 1980 maze game with features such as walls, fruits, ghosts, and power-ups.
+                    &nbsp;
+                    # C
+                    #2D Arrays
+                    # Structs
+                    # Enums
+                    # Loops
+                    # Input/Output Operations
+                    # Game mechanics</p>
+          <h2>Notework project</h2>
+          <h4>Pig Game</h4>
+          <p>A Java Computer vs. Human Pig Game (jeopardy dice game) with a gambling feature.
+            &nbsp;
+            # Java
+            # Loops
+            # Methods
+            # Object-Oriented Programming
+            # Input/Output
+            # State Management</p>
+           </p>
+
+        </section>
+        <h1>Stuff I designed</h1>
+        &nbsp;
+        <section>
+            <h3>Mindfull</h3>
+            <p>A proof-of-concept mobile app that helps people with eating disorders rebuild their relationship with food through food journalling, mood tracking, and mindful eating.</p>
+            <h5>2023 Digisoc x Atlassian Product Hackathon — First Place Winner</h5>
+            <img src="https://jasmineyip.com/assets/demos/cookie-ai.png" alt="">
+        </section>
+        <h1>Stuff I did.</h1>
+        &nbsp;
+        <table>
+            <tr>UNSW Digital Society</tr>
+            <tr>
+                <td>Careers Director @ UNSW Digital Society</td>
+            </tr>    
+            <tr>
+                <td>Sep 2023 - Dec 2023</td>
+            </tr>
+            <td>
+                <p> > A rapidly growing society that focusses on Digital Strategy, UX/UI Design & Innovation </p>
+                <p> > Coordinate logistics and MC at career-related events, e.g. Product Interview workshop </p>
+                <p> > Orchestrate outreach initiatives to form partnerships with industry leaders </p>
+                <p> > Understand the student body’s interests to create initiatives that add value to them </p> 
+            </td>  
+        </table>
+        &nbsp;
+        <form>
+                <fieldset class="box">
+                    
+                    
+
+                    <legend>Get in touch.</legend>
+                    <div class="lele">
+                        <label for="Yourname">Your name</label>
+                        <input type="" name="" id="Yourname">
+                    </div>
+                    &nbsp;
+                    <div class="lele">
+                        <label for="EmailAdress">Email Adress</label>
+                        <input type="" name="" id="EmailAdress"> 
+                    </div>
+                    &nbsp;
+                <div class="lele">
+                    <label for="">Message</label>
+                    <input type="" espace="" id="Message">
+
+                </div>
+                &nbsp;
+                <input type="button" value="Send" id="enviar">
+                
+                </fieldset> 
+
+            </form>
+        </div>
+        
+        
+                </ul>
+             </div>
+             &nbsp;
+             <p>I am always on the look out for opportunities that enable me to grow personally and professionally, as well as to connect with like-minded, or different-minded, individuals.</p>
+             <p>Whether you have an opportunity, any advice, questions, or simply want to say hi, my inbox is always open!</p>
+             <div class="pfooter">
+                <div id="pfooter"> 
+                    <ul>
+                    
+                        <li><a href=""><i class="fa-brands fa-facebook"></i></a></li>
+                        <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
+                        <li><a href=""><i class="fa-brands fa-square-x-twitter" ></i></a></li>
+                    </ul>
+                    </div>  
+                    
+                &nbsp;
+                <p>© 2023 | Designed & Developed by Jasmine Yip</p>
+           
+           
+
+             
+            
+        
